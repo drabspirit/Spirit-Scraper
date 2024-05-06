@@ -1,4 +1,4 @@
-#Note: This project is for fun and will probably not be upkept. Mainly a test to see what ChatGPT is capable of/test its' limits.
+# Note: This project is for fun and will probably not be upkept. Mainly a test to see what ChatGPT is capable of/test its' limits.
 
 # Spirit-Scraper
 GUI Python based program written using OpenAI's ChatGPT and fine tuned through hours of work. 
